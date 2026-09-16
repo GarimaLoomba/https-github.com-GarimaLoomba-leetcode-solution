@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0506-relative-ranks) |
 | [0846-hand-of-straights](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0846-hand-of-straights) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -57,4 +58,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0328-odd-even-linked-list) |
+## Math
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
