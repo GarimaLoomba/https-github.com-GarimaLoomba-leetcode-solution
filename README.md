@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
