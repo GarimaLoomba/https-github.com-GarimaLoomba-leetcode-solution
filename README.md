@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0506-relative-ranks) |
 | [0846-hand-of-straights](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0846-hand-of-straights) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0506-relative-ranks) |
 | [0846-hand-of-straights](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0846-hand-of-straights) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
