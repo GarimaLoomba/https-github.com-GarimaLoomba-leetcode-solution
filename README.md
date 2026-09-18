@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0486-predict-the-winner) |
 ## Minimax
 |  |
