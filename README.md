@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0455-assign-cookies) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
