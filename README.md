@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0506-relative-ranks) |
 | [0846-hand-of-straights](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0860-lemonade-change) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/2974-minimum-number-game) |
 ## Hash Table
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/GarimaLoomba/https-github.com-GarimaLoomba-leetcode-solution/tree/master/0860-lemonade-change) |
 ## Linked List
 |  |
 | ------- |
